@@ -1,0 +1,9 @@
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\bin\Debug\netcoreapp2.1\MonsterSystem.deps.json
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\bin\Debug\netcoreapp2.1\MonsterSystem.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\bin\Debug\netcoreapp2.1\MonsterSystem.pdb
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.csprojAssemblyReference.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.csproj.CoreCompileInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.AssemblyInfoInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.AssemblyInfo.cs
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\MonsterSystem\obj\Debug\netcoreapp2.1\MonsterSystem.pdb

@@ -1,0 +1,8 @@
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\bin\Debug\netcoreapp2.1\PlayerSystem.deps.json
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\bin\Debug\netcoreapp2.1\PlayerSystem.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\bin\Debug\netcoreapp2.1\PlayerSystem.pdb
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\obj\Debug\netcoreapp2.1\PlayerSystem.csproj.CoreCompileInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\obj\Debug\netcoreapp2.1\PlayerSystem.AssemblyInfoInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\obj\Debug\netcoreapp2.1\PlayerSystem.AssemblyInfo.cs
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\obj\Debug\netcoreapp2.1\PlayerSystem.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\PlayerSystem\obj\Debug\netcoreapp2.1\PlayerSystem.pdb

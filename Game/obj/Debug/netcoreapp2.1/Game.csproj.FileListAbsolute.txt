@@ -1,0 +1,11 @@
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\bin\Debug\netcoreapp2.1\Game.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\bin\Debug\netcoreapp2.1\Game.pdb
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.dll
+C:\Users\jojo_\OneDrive\เดสก์ท็อป\Code\Git\GameRPGSystem\Game\obj\Debug\netcoreapp2.1\Game.pdb
